@@ -1,0 +1,56 @@
+For Day 4 of a 30-day Python coding challenge for beginners, you can focus on control flow using if, elif, and else statements. Here's a suggested structure for the day:
+
+
+---
+
+Day 4: Mastering Control Flow
+
+Objective:
+
+Learn how to use conditional statements (if, elif, else) to make decisions in Python programs.
+
+Topics Covered
+
+1. if statement
+
+
+2. else statement
+
+
+3. elif statement
+
+
+4. Nested if statements
+
+
+5. Logical operators (and, or, not)
+
+
+
+
+---
+
+Tasks
+
+1. Basic Comparison Write a program that asks the user to enter a number and checks if it is positive, negative, or zero.
+
+number = int(input("Enter a number: "))
+if number > 0:
+    print("The number is positive.")
+elif number < 0:
+    print("The number is negative.")
+else:
+    print("The number is zero.")
+
+
+2. Age Group Checker Create a program that categorizes a person's age group based on their input.
+
+0-12: Child
+
+13-19: Teenager
+
+20-59: Adult
+
+
+
+
