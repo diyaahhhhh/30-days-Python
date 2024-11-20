@@ -1,3 +1,7 @@
+'''
+Author:Noel Shaji
+Date:0-11-2024
+'''
 fruits=['apple','banana','cherry',]
 #print(fruits)
 fruits.append('orange')
