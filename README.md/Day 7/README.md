@@ -15,4 +15,4 @@ Write a Python program that asks the user to enter items for a shopping list.
    - Use a `while` loop to continuously ask the user for input until they type 'done'.
 
 2. **Display the List:**
-   - After exiting the loop, print each item in the list.
+   - Print the final list.
