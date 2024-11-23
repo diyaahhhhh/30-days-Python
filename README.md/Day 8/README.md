@@ -1,4 +1,4 @@
-# Day 8: Python 30 Days Coding Challenge - "Find the Largest of Three Numbers"
+# Day 8: "Find the Largest of Three Numbers"
 
 **Task**:  
 Write a Python program to find the largest of three numbers entered by the user.
